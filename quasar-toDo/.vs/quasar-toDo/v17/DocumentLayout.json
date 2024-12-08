@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\firebaseDb.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quasar-project\\src\\firebaseDb.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\router\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quasar-project\\src\\router\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\router\\routes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quasar-project\\src\\router\\routes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\quasar.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quasar-project\\quasar.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\pages\\TodoPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quasar-project\\src\\pages\\TodoPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quasar-project\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\.eslintignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quasar-project\\.eslintignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\pages\\HelpPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quasar-project\\src\\pages\\HelpPage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\layouts\\MainLayout.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quasar-project\\src\\layouts\\MainLayout.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\components\\EssentialLink.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quasar-project\\src\\components\\EssentialLink.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\.vs\\tasks.vs.json",
+              "RelativeToolTip": ".vs\\tasks.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T18:06:52.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoPage.vue",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\pages\\TodoPage.vue",
+              "RelativeDocumentMoniker": "quasar-project\\src\\pages\\TodoPage.vue",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\pages\\TodoPage.vue",
+              "RelativeToolTip": "quasar-project\\src\\pages\\TodoPage.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-25T04:32:26.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "routes.js",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\router\\routes.js",
+              "RelativeDocumentMoniker": "quasar-project\\src\\router\\routes.js",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\router\\routes.js",
+              "RelativeToolTip": "quasar-project\\src\\router\\routes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-25T04:17:45.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "quasar.config.js",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\quasar.config.js",
+              "RelativeDocumentMoniker": "quasar-project\\quasar.config.js",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\quasar.config.js",
+              "RelativeToolTip": "quasar-project\\quasar.config.js",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwGsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-25T04:18:22.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".eslintrc.cjs",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\.eslintrc.cjs",
+              "RelativeDocumentMoniker": "quasar-project\\.eslintrc.cjs",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\.eslintrc.cjs",
+              "RelativeToolTip": "quasar-project\\.eslintrc.cjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-25T04:21:34.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "firebaseDb.js",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\firebaseDb.js",
+              "RelativeDocumentMoniker": "quasar-project\\src\\firebaseDb.js",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\firebaseDb.js",
+              "RelativeToolTip": "quasar-project\\src\\firebaseDb.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-25T04:06:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\router\\index.js",
+              "RelativeDocumentMoniker": "quasar-project\\src\\router\\index.js",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\router\\index.js",
+              "RelativeToolTip": "quasar-project\\src\\router\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-25T04:32:57.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".eslintignore",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\.eslintignore",
+              "RelativeDocumentMoniker": "quasar-project\\.eslintignore",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\.eslintignore",
+              "RelativeToolTip": "quasar-project\\.eslintignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T04:26:01.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EssentialLink.vue",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\components\\EssentialLink.vue",
+              "RelativeDocumentMoniker": "quasar-project\\src\\components\\EssentialLink.vue",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\components\\EssentialLink.vue",
+              "RelativeToolTip": "quasar-project\\src\\components\\EssentialLink.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-25T04:21:23.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HelpPage.vue",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\pages\\HelpPage.vue",
+              "RelativeDocumentMoniker": "quasar-project\\src\\pages\\HelpPage.vue",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\pages\\HelpPage.vue",
+              "RelativeToolTip": "quasar-project\\src\\pages\\HelpPage.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-25T04:17:25.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.vue",
+              "DocumentMoniker": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\layouts\\MainLayout.vue",
+              "RelativeDocumentMoniker": "quasar-project\\src\\layouts\\MainLayout.vue",
+              "ToolTip": "C:\\Users\\tdavi\\PycharmProjects\\git\\assignment-4-part-1-quasar-with-firebase-db-tdavisomaha\\quasar-toDo\\quasar-project\\src\\layouts\\MainLayout.vue",
+              "RelativeToolTip": "quasar-project\\src\\layouts\\MainLayout.vue",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-11-25T04:15:03.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
